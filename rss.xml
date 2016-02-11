@@ -4,8 +4,15 @@
         <description><![CDATA[organisational effectiveness inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 12:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 12:27:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Mirror of the Scrum Master's Work (so far)]]></title>
+            <description><![CDATA[<article><h1>A Mirror of the Scrum Master's Work (so far)</h1><p>Introducing "ScrumAnd" Adopting Scrum best starts by doing Scrum in the first place, getting all the formal elements of Scrum in place. It is like a jigsaw that isn't complete until you have fitted all the pieces together. Luckily Scrum doesn't have many pieces: 3 roles, 3 artifacts and 5 events.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44317344b25f871cafb8c023ef9fa798e9949898.jpg"></article>]]></description>
+            <link>http://guntherverheyen.com/2014/11/16/a-mirror-of-the-scrum-masters-work-so-far/</link>
+            <guid isPermaLink="false">5e726c35-d249-41ae-b445-cae214a7a5c4</guid>
+            <pubDate>Thu, 11 Feb 2016 12:27:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Another great M30 training&period; Join one yourself&colon; &period;&period;&period;" src="https://scontent.xx.fbcdn.net/hphotos-xlf1/t31.0-0/p180x540/12646766_839499256172171_1530221149831488950_o.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/effectiveness/82205f1f-43b5-49d2-83a4-02b2acc4a67c/index.html</link>
             <guid isPermaLink="false">82205f1f-43b5-49d2-83a4-02b2acc4a67c</guid>
             <pubDate>Thu, 11 Feb 2016 11:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eba6f7aa-1d05-4f20-90e4-b9b2c0107373.jpg">]]></description>
-            <link>https://thegrid.ai/effectiveness/322bdedd-ea30-493e-8faf-0dd2a336b2bc/index.html</link>
-            <guid isPermaLink="false">322bdedd-ea30-493e-8faf-0dd2a336b2bc</guid>
-            <pubDate>Thu, 11 Feb 2016 11:27:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
