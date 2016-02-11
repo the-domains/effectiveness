@@ -4,8 +4,15 @@
         <description><![CDATA[organisational effectiveness inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 19:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 19:00:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Horror Story: Efficiency is Killing Productivity]]></title>
+            <description><![CDATA[<article><h1>A Horror Story: Efficiency is Killing Productivity</h1><p>Are you working in product development? Creative work? Research? Or any other domain where brains are the main asset? YES? Then this story is for you! It's called: "Efficiency in organisations has become counterproductive!" Take the holy grail of efficiency: Clarity - Measurements - Accountability, it makes human efforts derail!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76884065fb8cc86f51a72f76ccf44e7faafd8d68.jpg"></article>]]></description>
+            <link>http://co-learning.be/blog/a-horror-story-efficiency-is-killing-productivity/23122015</link>
+            <guid isPermaLink="false">c783b389-529b-4cd5-a5a8-6e7d04e9a797</guid>
+            <pubDate>Thu, 11 Feb 2016 18:59:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Certified LeSS Practitioner - March 30, 2016 @ Brussel - Large Scale Scrum (LeSS)]]></title>
             <description><![CDATA[<article><h1>Certified LeSS Practitioner - March 30, 2016 @ Brussel - Large Scale Scrum (LeSS)</h1><p>Description : Large-Scale Scrum (LeSS) is a framework for scaling agile development to multiple teams. LeSS.works gives an overview. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9b03865a9cb0fccf5c47ae449ab29ebd4a9a9ef.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://co-learning.be/blog/splitting-backlog-items-part-2-who/10022016</link>
             <guid isPermaLink="false">df5c8475-1c56-4ab5-94c5-3977a55472ee</guid>
             <pubDate>Thu, 11 Feb 2016 12:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa91ba7e-f070-40b2-bbb5-0dd74372b21d.jpg">]]></description>
-            <link>https://thegrid.ai/effectiveness/dcb9b580-27db-4476-a2f0-8bed23badc09/index.html</link>
-            <guid isPermaLink="false">dcb9b580-27db-4476-a2f0-8bed23badc09</guid>
-            <pubDate>Thu, 11 Feb 2016 12:01:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
