@@ -2,7 +2,7 @@ name: inspiration
 favicon: null
 layout_spectrum: 0.2875211
 typography_spectrum: 0.11917
-title: Inspiration
+title: Business Inspiration
 collections:
   - index:
       path: /
