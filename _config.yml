@@ -1,41 +1,41 @@
-name: inspiration
-favicon: null
-layout_spectrum: 0.2875211
-typography_spectrum: 0.11917
-title: Business Inspiration
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.2875211
+title: Business Inspiration
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#7450a0'
     - '#afd4f0'
     - '#e6c0da'
     - '#9d84bc'
-  brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
+favicon: null
+name: inspiration
+typography_spectrum: 0.11917
