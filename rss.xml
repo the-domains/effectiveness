@@ -4,18 +4,11 @@
         <description><![CDATA[organisational effectiveness inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 08:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 08:58:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[In the last 10 minutes, Facebook made $149,400.]]></title>
-            <description><![CDATA[<article><h1>In the last 10 minutes, Facebook made $149,400.</h1><p>From Apple to Google, watch as the internet giants accumulate (or lose) wealth in real-time in this interactive visualization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/348d663eecb53a4692e122e21ec6d968ba4d5c2f.png"></article>]]></description>
-            <link>http://pennystocks.la/battle-of-internet-giants/</link>
-            <guid isPermaLink="false">5f019fa4-b925-4ae2-a2f9-72c431cc6e63</guid>
-            <pubDate>Mon, 15 Feb 2016 08:57:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The 25 Characteristics of a Great Development Team - Scrum.org Community Blog]]></title>
-            <description><![CDATA[<article><h1>The 25 Characteristics of a Great Development Team - Scrum.org Community Blog</h1><p>Recently I wrote an article about the characteristics of a great Product Owner. It gave me the idea to do the same for the Development Team and Scrum Master. This blog post focuses on the Development Team; I'll describe the characteristics, skills and conditions. Great Development Teams... Pursue technical excellence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c15afdef0a0fff0a8df09c33385c39342a021ef.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The 25 Characteristics of a Great Development Team - Scrum.org Community Blog</h1><p>Recently I wrote an article about the characteristics of a great Product Owner. It gave me the idea to do the same for the Development Team and Scrum Master. This blog post focuses on the Development Team; I'll describe the characteristics, skills and conditions. Great Development Teams... Pursue technical excellence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63825c264fae31bf4c30e79a021bcf52512a1507.jpg"></article>]]></description>
             <link>http://blog.scrum.org/the-25-characteristics-of-a-great-development-team/</link>
             <guid isPermaLink="false">af1c599f-21aa-45c7-aa11-c5fa4d343e1d</guid>
             <pubDate>Mon, 15 Feb 2016 08:57:18 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>http://co-learning.be/blog/a-horror-story-efficiency-is-killing-productivity/23122015</link>
             <guid isPermaLink="false">c783b389-529b-4cd5-a5a8-6e7d04e9a797</guid>
             <pubDate>Thu, 11 Feb 2016 19:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Certified LeSS Practitioner - March 30, 2016 @ Brussel - Large Scale Scrum (LeSS)]]></title>
+            <description><![CDATA[<article><h1>Certified LeSS Practitioner - March 30, 2016 @ Brussel - Large Scale Scrum (LeSS)</h1><p>Description : Large-Scale Scrum (LeSS) is a framework for scaling agile development to multiple teams. LeSS.works gives an overview. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52a2ad0bd6a9909d0a53be619de440423d0d4559.png"></article>]]></description>
+            <link>https://less.works/course-details/certified-less-practitioner-brussel-98</link>
+            <guid isPermaLink="false">8d3dc047-1f79-4053-ac7c-4e99bc92d608</guid>
+            <pubDate>Thu, 11 Feb 2016 18:59:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
