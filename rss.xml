@@ -4,8 +4,15 @@
         <description><![CDATA[Business Inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 05:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 05:59:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Minimum and Viable - The Corporate Startup]]></title>
+            <description><![CDATA[<article><h1>The Minimum and Viable - The Corporate Startup</h1><p>Experimental and Mundane Realism The concept of the minimum viable product is now part of the popular lexicon within the lean startup movement. As with most terms that become over-used most people still misunderstand what an MVP really is. Since most people assume "lean" means cheap, they also assume the MVP means "crappy version of future product".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3fa9c47458cc38ec65eeca6f8ea96b7bd188cc9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/effectiveness/the-minimum-and-viable-the-corporate-startup/index.html</link>
+            <guid isPermaLink="false">289f817d-4339-4b77-844d-a281b90f0154</guid>
+            <pubDate>Wed, 17 Feb 2016 05:58:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Your Brain Actually Works Better in Winter, According to Science]]></title>
             <description><![CDATA[<article><h1>Your Brain Actually Works Better in Winter, According to Science</h1><p>February is basically no one's favorite month. By now, most of us are well and truly sick of winter, yet winter is far from done, continuing to torture us with nose-freezing temperatures and super short days. Given how unpleasant the weather can be, it makes sense to conclude that the season is only good for ski buffs and hibernation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f8b1426cdf1acf1342200a0abd526fa493ccfdb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/effectiveness/self-designing-teams/index.html</link>
             <guid isPermaLink="false">0c259f5e-4758-474d-aca2-6082b6170947</guid>
             <pubDate>Fri, 12 Feb 2016 08:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaling Lean - Master the Key Metrics for Startup Growth (AKA Traction)]]></title>
-            <description><![CDATA[<article><h1>Scaling Lean - Master the Key Metrics for Startup Growth (AKA Traction)</h1><p>The future of your business doesn't depend on how many features you have, the size of your company or how much money you have in the bank. It's not about last month's sales, customers, or even marketshare. It's about value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fb50bf8cafed46dbba13e14eda7e32a55311214.png"></article>]]></description>
-            <link>https://leanstack.com/scaling-lean-book/?ref_id=W1249546</link>
-            <guid isPermaLink="false">c9d01407-895b-4363-9d26-8e24cc8da204</guid>
-            <pubDate>Fri, 12 Feb 2016 01:29:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
