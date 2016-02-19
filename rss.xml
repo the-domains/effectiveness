@@ -4,15 +4,8 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 18:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 18:13:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Starting Fires on Purpose - When and How Leaders Need to Break the Rules]]></title>
-            <description><![CDATA[<article><h1>Starting Fires on Purpose - When and How Leaders Need to Break the Rules</h1><p>When Paul Berry was CTO of The Huffington Post - where he grew their audience from zero to more than 110 million monthly readers - President Greg Coleman and CEO Eric Hippeau had a running joke that they needed an armed military vehicle to bring him to and from work, because he was too darn valuable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38a3c8cd858ab158b88330a93b2f2f018da63b56.png"></article>]]></description>
-            <link>http://firstround.com/review/starting-fires-on-purpose-when-and-how-leaders-need-to-break-the-rules/?ct=t%28How_Does_Your_Leadership_Team_Rate_12_3_2015%29</link>
-            <guid isPermaLink="false">1905ad73-c35a-4409-a152-61582f72f5f8</guid>
-            <pubDate>Fri, 19 Feb 2016 18:12:02 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The truth about idea stealing - Crew blog]]></title>
             <description><![CDATA[<article><h1>The truth about idea stealing - Crew blog</h1><p>So many of us start the new year bursting with new product and business ideas. Yet, after asking my personal network if they'd share their ideas publicly, one question kept coming up: How will I protect my idea from being stolen? Why does everyone think their ideas will be stolen?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/580551fcd398074eecaff91e89956e56145e5949.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://pennystocks.la/battle-of-internet-giants/</link>
             <guid isPermaLink="false">5f019fa4-b925-4ae2-a2f9-72c431cc6e63</guid>
             <pubDate>Mon, 15 Feb 2016 08:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 25 Characteristics of a Great Development Team - Scrum.org Community Blog]]></title>
+            <description><![CDATA[<article><h1>The 25 Characteristics of a Great Development Team - Scrum.org Community Blog</h1><p>Recently I wrote an article about the characteristics of a great Product Owner. It gave me the idea to do the same for the Development Team and Scrum Master. This blog post focuses on the Development Team; I'll describe the characteristics, skills and conditions. Great Development Teams... Pursue technical excellence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c15afdef0a0fff0a8df09c33385c39342a021ef.jpg"></article>]]></description>
+            <link>http://blog.scrum.org/the-25-characteristics-of-a-great-development-team/</link>
+            <guid isPermaLink="false">af1c599f-21aa-45c7-aa11-c5fa4d343e1d</guid>
+            <pubDate>Mon, 15 Feb 2016 08:57:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
