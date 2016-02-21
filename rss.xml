@@ -4,11 +4,18 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 16:28:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Project versus Product and Product Owner versus Project Manager - Adventures with Agile]]></title>
+            <description><![CDATA[<article><h1>Project versus Product and Product Owner versus Project Manager - Adventures with Agile</h1><p>Project versus Product and Product Owner versus Project Manager I have done a small amount of research on this topic and was surprised to find there is not a lot of useful content explaining the difference between the Project and Product and the resulting roles. So I've thrown this post together which are my thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/758ca3e9b443560f74e4ba72e24c1de0ccc442a4.gif"></article>]]></description>
+            <link>http://www.adventureswithagile.com/2016/02/20/product-vs-project/</link>
+            <guid isPermaLink="false">8724c37e-8d4c-4d68-b3cf-fa76880abc58</guid>
+            <pubDate>Sun, 21 Feb 2016 16:27:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hacking a Conservative Org with Lean Coffee]]></title>
-            <description><![CDATA[<article><h1>Hacking a Conservative Org with Lean Coffee</h1><p>Culture: Highly conservative public sector organization, average employee age of 47, strong status quo and intentional as well as un-intention hiding of information throughout the organization. In this organization the cube-farm is alive and well and there is strong separation between departments and an emphasis on job descriptions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/437f457c66cb7129af33ee2305b4668b57993f16.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hacking a Conservative Org with Lean Coffee</h1><p>Culture: Highly conservative public sector organization, average employee age of 47, strong status quo and intentional as well as un-intention hiding of information throughout the organization. In this organization the cube-farm is alive and well and there is strong separation between departments and an emphasis on job descriptions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/471250884e59b7fd370428895d2ab168e3664023.jpg"></article>]]></description>
             <link>http://bizculturehackers.com/hacking-a-conservative-org-with-lean-coffee/</link>
             <guid isPermaLink="false">76682424-d6dd-4f22-968c-45f99cca4bdc</guid>
             <pubDate>Sun, 21 Feb 2016 16:27:03 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What Is Corporate Culture?</h1><p>At its worst, culture can be a drag on productivity. At its best, it is an emotional energizer that companies can use to gain a competitive advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3260b0161643119b5eda4e27840b66acb370e583.gif"></article>]]></description>
             <link>http://www.strategy-business.com/article/m00039?rssid=all_updates&amp;gko=fffc1&amp;utm_source=twitterfeed&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+StrategyBusiness-AllUpdates+%28strategy%2Bbusiness+-+All+Updates%29</link>
             <guid isPermaLink="false">2f409351-f36d-48b5-aec8-933ac40a5122</guid>
-            <pubDate>Mon, 15 Feb 2016 19:39:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Corporate Startup - The Corporate Startup]]></title>
-            <description><![CDATA[<article><h1>The Corporate Startup - The Corporate Startup</h1><p>A Market Risk R&D Lab At Leancamp Stuttgart, we had a number of interesting sessions. One session in particular focused on corporate accelerators as a means to help large enterprises develop innovative new products. A corporate accelerator would be similar to other accelerator programmes such as Y-Combinator and Tech Stars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92c02f171417ea42fdc595b2a566168577b06361.jpg"></article>]]></description>
-            <link>https://thegrid.ai/effectiveness/the-corporate-startup-the-corporate-startup/index.html</link>
-            <guid isPermaLink="false">d063b4b5-c0e0-4f66-9a7e-12be3c544a10</guid>
             <pubDate>Mon, 15 Feb 2016 19:39:47 GMT</pubDate>
         </item>
     </channel>
