@@ -4,8 +4,15 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 16:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 08:06:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Don't Let The Cuckoo Effect Ruin Your Organization]]></title>
+            <description><![CDATA[<article><h1>Don't Let The Cuckoo Effect Ruin Your Organization</h1><p>Book tours can sometimes make for tough presentations. The author wants to whet the appetite of the audience to elicit more purchases without giving too much away. The audience wants to hear from the speaker about exciting topics without hearing the words "buy the book" more than once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f28e24792c13aaecd457b270c307f38540721483.jpg"></article>]]></description>
+            <link>http://chrismurman.com/2014/11/11/blog-post-dont-let-the-cuckoo-effect-ruin-your-organization/</link>
+            <guid isPermaLink="false">3cc62467-4474-45f8-9313-e304510cd0f1</guid>
+            <pubDate>Mon, 22 Feb 2016 08:05:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Project versus Product and Product Owner versus Project Manager - Adventures with Agile]]></title>
             <description><![CDATA[<article><h1>Project versus Product and Product Owner versus Project Manager - Adventures with Agile</h1><p>Project versus Product and Product Owner versus Project Manager I have done a small amount of research on this topic and was surprised to find there is not a lot of useful content explaining the difference between the Project and Product and the resulting roles. So I've thrown this post together which are my thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/758ca3e9b443560f74e4ba72e24c1de0ccc442a4.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jarche.com/2016/02/learn-like-a-gamer/</link>
             <guid isPermaLink="false">bdd6ba8f-d562-4dbb-8d60-6c4c92ffbc46</guid>
             <pubDate>Wed, 17 Feb 2016 05:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Corporate Culture?]]></title>
-            <description><![CDATA[<article><h1>What Is Corporate Culture?</h1><p>At its worst, culture can be a drag on productivity. At its best, it is an emotional energizer that companies can use to gain a competitive advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3260b0161643119b5eda4e27840b66acb370e583.gif"></article>]]></description>
-            <link>http://www.strategy-business.com/article/m00039?rssid=all_updates&amp;gko=fffc1&amp;utm_source=twitterfeed&amp;utm_medium=twitter&amp;utm_campaign=Feed%3A+StrategyBusiness-AllUpdates+%28strategy%2Bbusiness+-+All+Updates%29</link>
-            <guid isPermaLink="false">2f409351-f36d-48b5-aec8-933ac40a5122</guid>
-            <pubDate>Mon, 15 Feb 2016 19:39:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
