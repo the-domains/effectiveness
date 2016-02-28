@@ -4,11 +4,18 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 11:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 11:20:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Using Design Thinking to Design Business Models]]></title>
+            <description><![CDATA[<article><h1>Using Design Thinking to Design Business Models</h1><p>In this second article of the Enterprise Architecture for Business Model Innovation Series, a design think-based approach is presented for business model design. Design thinking is a user-centered design philosophy based on building empathy to guide the search for breakthrough innovation. The design process involves the innovation team introduced in the first part of the series.</p><img src="http://labs.sogeti.com/wp-content/uploads/2016/02/sergio-1.jpg"></article>]]></description>
+            <link>http://labs.sogeti.com/using-design-thinking-to-design-business-models/</link>
+            <guid isPermaLink="false">d6572061-4de2-4f8a-a8be-46c5f2cb039d</guid>
+            <pubDate>Sun, 28 Feb 2016 11:15:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why 'Fear of Failure' is Something You Need to Unlearn]]></title>
-            <description><![CDATA[<article><h1>Why 'Fear of Failure' is Something You Need to Unlearn</h1><p>Did you know that fear is mostly a learned emotion? I read about this in a book by Mark Batterson, an author and pastor who lives in Washington, DC. He mentioned that fear of falling and fear of loud noises are the only intrinsic fears, the ones we we have from birth.</p><img src="http://images.inc.com/uploaded_files/image/970x450/getty_453469271_82984.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why 'Fear of Failure' is Something You Need to Unlearn</h1><p>Did you know that fear is mostly a learned emotion? I read about this in a book by Mark Batterson, an author and pastor who lives in Washington, DC. He mentioned that fear of falling and fear of loud noises are the only intrinsic fears, the ones we we have from birth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9582e77054d6d4b8afb909154ee62323759def5a.jpg"></article>]]></description>
             <link>http://www.inc.com/john-brandon/why-fear-of-failure-is-something-you-need-to-unlearn.html</link>
             <guid isPermaLink="false">465b1170-fe10-4626-92f5-bd515afb248b</guid>
             <pubDate>Sun, 28 Feb 2016 11:15:33 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Project versus Product and Product Owner versus Project Manager - Adventures with Agile</h1><p>Project versus Product and Product Owner versus Project Manager I have done a small amount of research on this topic and was surprised to find there is not a lot of useful content explaining the difference between the Project and Product and the resulting roles. So I've thrown this post together which are my thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/758ca3e9b443560f74e4ba72e24c1de0ccc442a4.gif"></article>]]></description>
             <link>http://www.adventureswithagile.com/2016/02/20/product-vs-project/</link>
             <guid isPermaLink="false">8724c37e-8d4c-4d68-b3cf-fa76880abc58</guid>
-            <pubDate>Sun, 21 Feb 2016 16:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacking a Conservative Org with Lean Coffee]]></title>
-            <description><![CDATA[<article><h1>Hacking a Conservative Org with Lean Coffee</h1><p>Culture: Highly conservative public sector organization, average employee age of 47, strong status quo and intentional as well as un-intention hiding of information throughout the organization. In this organization the cube-farm is alive and well and there is strong separation between departments and an emphasis on job descriptions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/471250884e59b7fd370428895d2ab168e3664023.jpg"></article>]]></description>
-            <link>http://bizculturehackers.com/hacking-a-conservative-org-with-lean-coffee/</link>
-            <guid isPermaLink="false">76682424-d6dd-4f22-968c-45f99cca4bdc</guid>
             <pubDate>Sun, 21 Feb 2016 16:27:03 GMT</pubDate>
         </item>
     </channel>
