@@ -4,11 +4,18 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 11:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 11:20:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What Google Learned From Its Quest to Build the Perfect Team]]></title>
+            <description><![CDATA[<article><h1>What Google Learned From Its Quest to Build the Perfect Team</h1><p>Like most 25-year-olds, Julia Rozovsky wasn't sure what she wanted to do with her life. She had worked at a consulting firm, but it wasn't a good match. Then she became a researcher for two professors at Harvard, which was interesting but lonely. Maybe a big corporation would be a better fit.</p><img src="http://static01.nyt.com/images/2016/02/28/magazine/28mag-teams1-copy/28mag-teams1-facebookJumbo-v2.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0</link>
+            <guid isPermaLink="false">778bdf4a-feba-45bc-b3c4-207627a1f3e1</guid>
+            <pubDate>Sun, 28 Feb 2016 11:15:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Using Design Thinking to Design Business Models]]></title>
-            <description><![CDATA[<article><h1>Using Design Thinking to Design Business Models</h1><p>In this second article of the Enterprise Architecture for Business Model Innovation Series, a design think-based approach is presented for business model design. Design thinking is a user-centered design philosophy based on building empathy to guide the search for breakthrough innovation. The design process involves the innovation team introduced in the first part of the series.</p><img src="http://labs.sogeti.com/wp-content/uploads/2016/02/sergio-1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Using Design Thinking to Design Business Models</h1><p>In this second article of the Enterprise Architecture for Business Model Innovation Series, a design think-based approach is presented for business model design. Design thinking is a user-centered design philosophy based on building empathy to guide the search for breakthrough innovation. The design process involves the innovation team introduced in the first part of the series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df7ddc6eb8be011ed517aab4d52e736707b76144.jpg"></article>]]></description>
             <link>http://labs.sogeti.com/using-design-thinking-to-design-business-models/</link>
             <guid isPermaLink="false">d6572061-4de2-4f8a-a8be-46c5f2cb039d</guid>
             <pubDate>Sun, 28 Feb 2016 11:15:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://chrismurman.com/2014/11/11/blog-post-dont-let-the-cuckoo-effect-ruin-your-organization/</link>
             <guid isPermaLink="false">3cc62467-4474-45f8-9313-e304510cd0f1</guid>
             <pubDate>Mon, 22 Feb 2016 08:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Project versus Product and Product Owner versus Project Manager - Adventures with Agile]]></title>
-            <description><![CDATA[<article><h1>Project versus Product and Product Owner versus Project Manager - Adventures with Agile</h1><p>Project versus Product and Product Owner versus Project Manager I have done a small amount of research on this topic and was surprised to find there is not a lot of useful content explaining the difference between the Project and Product and the resulting roles. So I've thrown this post together which are my thoughts...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/758ca3e9b443560f74e4ba72e24c1de0ccc442a4.gif"></article>]]></description>
-            <link>http://www.adventureswithagile.com/2016/02/20/product-vs-project/</link>
-            <guid isPermaLink="false">8724c37e-8d4c-4d68-b3cf-fa76880abc58</guid>
-            <pubDate>Sun, 21 Feb 2016 16:27:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
