@@ -4,15 +4,8 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 18:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 18:06:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How is lean different from Taylorism?]]></title>
-            <description><![CDATA[<article><h1>How is lean different from Taylorism?</h1><p>In a special column, Michael Ballé breaks from his standard practice of answering readers' questions to weigh in on the controversy comparing lean management to "Taylorism" triggered by the recent story " Medical Taylorism" in the New England Of Medicine. -Ed. How is lean different from Taylorism? They are completely different indeed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5af87be4d4743f79663fd6677c6e6f08be95d3b6.jpg"></article>]]></description>
-            <link>http://www.lean.org/balle/DisplayObject.cfm?o=3179</link>
-            <guid isPermaLink="false">45ab509d-e285-4fcc-a1db-3a8364c74238</guid>
-            <pubDate>Sat, 12 Mar 2016 18:06:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Do You Have a 'Touchpoint Plan'?]]></title>
             <description><![CDATA[<article><h1>Do You Have a 'Touchpoint Plan'?</h1><p>Join us live at Entrepreneur's Accelerate Your Business event series in Chicago or Denver. Secure your spot " Have you ever thought through your business from your customer's perspective? I love that moment in , when Anne Hathaway's character opens an order -- the way a customer would -- from her own company, to see how things look.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4824d3d9d552d786de6d6f83a4a765930f460a4.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://mattermark.com/from-impossible-to-inevitable-3-lessons/</link>
             <guid isPermaLink="false">4c945cc1-55a9-4ca2-84c4-80e4e183a942</guid>
             <pubDate>Sun, 28 Feb 2016 11:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Google Learned From Its Quest to Build the Perfect Team]]></title>
+            <description><![CDATA[<article><h1>What Google Learned From Its Quest to Build the Perfect Team</h1><p>Like most 25-year-olds, Julia Rozovsky wasn't sure what she wanted to do with her life. She had worked at a consulting firm, but it wasn't a good match. Then she became a researcher for two professors at Harvard, which was interesting but lonely. Maybe a big corporation would be a better fit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10b8c997061ec54cacf4118467c4a3f77928af3.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0</link>
+            <guid isPermaLink="false">778bdf4a-feba-45bc-b3c4-207627a1f3e1</guid>
+            <pubDate>Sun, 28 Feb 2016 11:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
