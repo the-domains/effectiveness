@@ -4,22 +4,8 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 18:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 18:07:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Your ultimate guide to Minimum Viable Product (+great examples)]]></title>
-            <description><![CDATA[<article><h1>Your ultimate guide to Minimum Viable Product (+great examples)</h1><p>Minimum Viable Product (MVP) is useful product strategy that is loved and used by many lean startup practitioners around the world. Many entrepreneurs, however, end up with MVPs that don't land anywhere near their expectations. Their MVPs have very low conversion rates and no paying customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f2a15187e54a837d323279c165d834fb2a30566.jpg"></article>]]></description>
-            <link>http://blog.fastmonkeys.com/2014/06/18/minimum-viable-product-your-ultimate-guide-to-mvp-great-examples/</link>
-            <guid isPermaLink="false">5fd5dd6d-d8e7-497d-a660-f4db0dbefc95</guid>
-            <pubDate>Sat, 12 Mar 2016 18:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What You Need To Know About Disruption: John Hagel]]></title>
-            <description><![CDATA[<article><h1>What You Need To Know About Disruption: John Hagel</h1><p>An outcome approach to disruption</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/554bf0311fc2e3fe2ca8fd1d19bf99f64080e517.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/stevedenning/2016/02/29/john-hagel-fresh-research-on-disruption/#61efc1245444</link>
-            <guid isPermaLink="false">844c5b87-d888-48b2-9259-bad7b28da6fa</guid>
-            <pubDate>Sat, 12 Mar 2016 18:06:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Uncertainty and creativity make good company]]></title>
             <description><![CDATA[<article><h1>Uncertainty and creativity make good company</h1><p>Certainty sounds like something rock solid and immovable - something upon which you can depend. In reality it's ephemeral. Yet human beings love the idea of certainty and when we're thrust into situations of change and uncertainty, it feels like a test. Sometimes it even feels like punishment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/817cb3ca82605722a82dcef7b8225d913a593c21.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.bcgperspectives.com/content/articles/stratregy-strategic-planning-biology-corporate-survival/</link>
             <guid isPermaLink="false">d292b2f6-7468-455a-be58-d4c5a4166e7d</guid>
             <pubDate>Sat, 12 Mar 2016 18:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Simple Tricks to Avoid Merge Conflicts - The Team Coder]]></title>
+            <description><![CDATA[<article><h1>4 Simple Tricks to Avoid Merge Conflicts - The Team Coder</h1><p>Git is a great tool if you have multiple developers working on the same code base. However, there is one thing which can be very annoying if your team uses Git: Merge conflicts! Two developers have changed the same part of the code and then Git doesn't know what to do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e50cb9b6d6e7f9f26d1b3b1b119cde7146e2fe5.png"></article>]]></description>
+            <link>http://team-coder.com/avoid-merge-conflicts/</link>
+            <guid isPermaLink="false">3486f920-88d5-4cdb-b7aa-5a8e76da515b</guid>
+            <pubDate>Sat, 12 Mar 2016 18:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design As Strategy: How Design Can Improve Your Business Outcomes | Game-Changer]]></title>
+            <description><![CDATA[<article><h1>Design As Strategy: How Design Can Improve Your Business Outcomes | Game-Changer</h1><p>Design thinking. is it a methodology, mindset, trend, the new must in business acumen, or all of the above? Regardless of your interpretation, it has been around for quite a while. The bottom-line is most leaders still don't understand how exactly it helps improve or drive new business outcomes. Why?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/391e479c4135f6faaffd794044ab5f3b4b2c8ab4.png"></article>]]></description>
+            <link>http://www.game-changer.net/2016/03/03/design-as-strategy-how-design-can-improve-your-business-outcomes/#.VtjMA688KrU</link>
+            <guid isPermaLink="false">2058e6bd-ffb4-48bd-af42-708e88a238b7</guid>
+            <pubDate>Fri, 04 Mar 2016 23:28:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
