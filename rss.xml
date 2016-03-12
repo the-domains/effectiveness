@@ -4,15 +4,8 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 18:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 18:06:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Biology of Corporate Survival]]></title>
-            <description><![CDATA[<article><h1>The Biology of Corporate Survival</h1><p>Corporate mortality is on the rise, driven by the dynamism and complexity of the business environment. This article, first published in Harvard Business Review, describes six principles that confer robustness in complex systems, such as tropical forests, stock markets, and even companies. Understanding these principles can mean the difference between survival and extinction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3477d7148f6748612474371f01873b412172e7a4.jpg"></article>]]></description>
-            <link>https://www.bcgperspectives.com/content/articles/stratregy-strategic-planning-biology-corporate-survival/</link>
-            <guid isPermaLink="false">d292b2f6-7468-455a-be58-d4c5a4166e7d</guid>
-            <pubDate>Sat, 12 Mar 2016 18:06:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[4 Simple Tricks to Avoid Merge Conflicts - The Team Coder]]></title>
             <description><![CDATA[<article><h1>4 Simple Tricks to Avoid Merge Conflicts - The Team Coder</h1><p>Git is a great tool if you have multiple developers working on the same code base. However, there is one thing which can be very annoying if your team uses Git: Merge conflicts! Two developers have changed the same part of the code and then Git doesn't know what to do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e50cb9b6d6e7f9f26d1b3b1b119cde7146e2fe5.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://labs.sogeti.com/using-design-thinking-to-design-business-models/</link>
             <guid isPermaLink="false">d6572061-4de2-4f8a-a8be-46c5f2cb039d</guid>
             <pubDate>Sun, 28 Feb 2016 11:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why 'Fear of Failure' is Something You Need to Unlearn]]></title>
+            <description><![CDATA[<article><h1>Why 'Fear of Failure' is Something You Need to Unlearn</h1><p>Did you know that fear is mostly a learned emotion? I read about this in a book by Mark Batterson, an author and pastor who lives in Washington, DC. He mentioned that fear of falling and fear of loud noises are the only intrinsic fears, the ones we we have from birth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9582e77054d6d4b8afb909154ee62323759def5a.jpg"></article>]]></description>
+            <link>http://www.inc.com/john-brandon/why-fear-of-failure-is-something-you-need-to-unlearn.html</link>
+            <guid isPermaLink="false">465b1170-fe10-4626-92f5-bd515afb248b</guid>
+            <pubDate>Sun, 28 Feb 2016 11:15:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
