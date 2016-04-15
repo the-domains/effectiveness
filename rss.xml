@@ -4,8 +4,15 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 00:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 00:06:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Laws of Simplicity]]></title>
+            <description><![CDATA[<article><h1>The Laws of Simplicity</h1><p>On the one hand, you want a product or service to be easy to use; on the other hand you want it to do everything that a person might want it to do. The process of reaching an ideal state of simplicity can be truly complex, so allow me to simplify it for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/befb96b87de11b255345bac11bc28938379a65d2.gif"></article>]]></description>
+            <link>http://lawsofsimplicity.com/los/law-1-reduce.html</link>
+            <guid isPermaLink="false">ca22fac1-ae43-4d7b-ab6d-688d9c44ce03</guid>
+            <pubDate>Fri, 15 Apr 2016 00:05:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Truth About 'Performance Improvement Plans']]></title>
             <description><![CDATA[<article><h1>The Truth About 'Performance Improvement Plans'</h1><p>What's the story with Performance Improvement Plans? Here's the scoop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22016cebc5e8ab3a50cdf26dde73d5a542662c23.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/03/24/worlds-biggest-startup-samsung-to-reform-corporate-culture/</link>
             <guid isPermaLink="false">ecfacbeb-2604-4ad1-9d5f-84965b6dd15d</guid>
             <pubDate>Wed, 30 Mar 2016 20:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instinct Can Beat Analytical Thinking]]></title>
-            <description><![CDATA[<article><h1>Instinct Can Beat Analytical Thinking</h1><p>Researchers have confronted us in recent years with example after example of how we humans get things wrong when it comes to making decisions. We misunderstand probability, we're myopic, we pay attention to the wrong things, and we just generally mess up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/995f402c344c8c3b906be6d1a382d2b617965a7e.jpg"></article>]]></description>
-            <link>https://hbr.org/2014/06/instinct-can-beat-analytical-thinking</link>
-            <guid isPermaLink="false">7ce31577-9d71-4b7d-837c-0c74c9d78479</guid>
-            <pubDate>Sun, 27 Mar 2016 06:42:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
