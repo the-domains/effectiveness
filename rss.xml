@@ -4,13 +4,20 @@
         <description><![CDATA[inspiration]]></description>
         <link>https://thegrid.ai/effectiveness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:01:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/effectiveness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Increase Your Return on Failure]]></title>
             <description><![CDATA[<article><h1>Increase Your Return on Failure</h1><p>Executive Summary Although many companies claim to embrace failure as an integral part of the innovation process, near-zero tolerance for it blocks them from pursuing new ideas. Corporate budgeting, resource allocation, and risk control are all designed to promote predictability and efficiency, and even when people understand that they can and should fail, they do everything possible to avoid missteps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8667a74c1918b9e0dc04e6dd30b6d801950cd2fe.jpg"></article>]]></description>
             <link>https://hbr.org/2016/05/increase-your-return-on-failure</link>
             <guid isPermaLink="false">d2133dc3-653e-47fe-b213-3d0c075de543</guid>
+            <pubDate>Thu, 28 Apr 2016 06:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Secret History of Agile Innovation]]></title>
+            <description><![CDATA[<article><h1>The Secret History of Agile Innovation</h1><p>You hear a lot about "agile innovation" these days. Teams using agile methods get things done faster than teams using traditional processes. They keep customers happier. They enjoy their work more. Agile has indisputably transformed software development, and many experts believe it is now poised to expand far beyond IT.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7423ceb94788d04d557a1ce2e06bfa605a0eb600.jpg"></article>]]></description>
+            <link>https://hbr.org/2016/04/the-secret-history-of-agile-innovation</link>
+            <guid isPermaLink="false">c1fa0009-1255-4c09-aaa9-2b971b4a65be</guid>
             <pubDate>Thu, 28 Apr 2016 06:01:08 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.inc.com/jt-odonnell/5-signs-your-companys-culture-is-dying.html</link>
             <guid isPermaLink="false">04e20946-203c-484e-8dc5-54518b43268d</guid>
             <pubDate>Fri, 15 Apr 2016 00:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pioneers, Settlers and Town Planners]]></title>
-            <description><![CDATA[<article><h1>Pioneers, Settlers and Town Planners</h1><p>After posting about the composition of multidisciplinary teams, (friend of ODF) Mike Baxter sent me a link to Simon Wardly's post on Pioneers, Settlers, and Town Planners, which describies a unique combination of characteristics needed to bring products and services to life. The concept, says Simon, is adapted from Robert X.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9011293b168b9983aa84884fdb314ae73f07443.jpg"></article>]]></description>
-            <link>http://www.onlydeadfish.co.uk/only_dead_fish/2016/04/pioneers-settlers-and-town-planners.html</link>
-            <guid isPermaLink="false">46e10bb5-7c5c-4cf1-8448-53861a5d96a2</guid>
-            <pubDate>Fri, 15 Apr 2016 00:05:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
